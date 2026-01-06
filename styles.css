@@ -162,7 +162,8 @@ legend {
     margin-bottom: 0;
 }
 
-.checkbox-option input[type="checkbox"] {
+.checkbox-option input[type="checkbox"],
+.checkbox-option input[type="radio"] {
     margin-right: 12px;
     width: 18px;
     height: 18px;
